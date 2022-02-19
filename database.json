@@ -1,0 +1,17 @@
+{
+    "lessons": [
+        {
+            "title": "Intro I",
+            "lessons": {
+                "Arrays Intro": "arrays/01-arrays-intro.php",
+                "Arrays Loops": "arrays/02-arrays-loops.php"
+            }
+        },
+        {
+            "title": "Intro II",
+            "lessons": {
+                "01 Arrays Intro 1": "01-arrays-intro.php"
+            }
+        }
+    ]
+}
